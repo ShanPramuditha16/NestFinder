@@ -1,0 +1,160 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":4,
+			"price":750000,
+			"tenure":"For Sale",
+			"description":"Hello Neighbour proudly presents this luxurious, high-spec four-bedroom, two-bathroom detached house with a private garden in Kingston upon Thames, SW15. Spanning three levels, this fully furnished home offers ample space and high-end finishes, making it an ideal choice for a growing family. The ground floor features a spacious kitchen with integrated appliances, warm wood flooring, and modern finishes, with large windows that fill the space with natural light. This level also includes a home study, a utility room, a convenient WC, and a generously sized reception/dining room. Two well-positioned skylights and a sliding door lead to a beautifully manicured private garden, perfect for outdoor family activities or hosting barbecues. On the first floor, the main bedroom offers built-in cupboards, a dressing room, and a stylish 3-piece en-suite shower room. Also on this level are a single bedroom, a double bedroom with bay windows for abundant natural light, and a modern 3-piece family bathroom. The second floor houses an additional double bedroom and convenient eaves storage. This property is exceptionally family-friendly, with several schools, nurseries, healthcare services, and reputable supermarkets nearby. To book a viewing: submit your enquiry and you'll receive an email and SMS detailing availability - within 10 min Double Bedroom 13'11 x 11'10 Open plan Kitchen 20'8 x 15'3 Open plan Living room 25'1 x 23'7 Double Bedroom 18'10 x 14'9 Single Bedroom 8'4 x 7'11 Small Utility Room 10'10 x 5'2 Medium Office 10'11 x 8'4",
+			"location":"Robin Hood Lane, London, SW15",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.347258424664!2d-0.2608753235348216!3d51.4320261717962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760eca9fe426e9%3A0x5d3e1557cb840cf9!2sRobin%20Hood%20Ln%2C%20London%2C%20UK!5e1!3m2!1sen!2slk!4v1735982438133!5m2!1sen!2slk",
+			"picture":"/images/prop1_1.jpeg",
+      "images": [
+				"/images/prop1_2.jpeg",
+				"/images/prop1_3.jpeg",
+				"/images/prop1_4.jpeg",
+				"/images/prop1_5.jpeg",
+        "/images/prop1_6.jpeg"
+			],
+      "floorPlan": "/images/prop1_f.jpeg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"To Rent",
+			"description":"These available units are a self-contained space that spans the ground and lower ground floors in a mixed-use building. They have been newly refurbished and include an open-plan layout, WC facilities, modern LED lighting, high ceilings, air conditioning, and a large front window. It's an ideal spot for any E-Use Class business looking to set up in the lively London Fields area. Warehaus development is located in the fashionable London Fields neighborhood of Hackney, an area of ongoing regeneration which continues to attract an increasing number of creative professionals to live and work here. The building has entrances on Mare Street and Sidworth Street, just off Mentmore Terrace. The green open space of London Fields Park is on the doorstep and it is a short walk to the social hotspots of Broadway Market and the broad range of amenities of Mare Street.",
+			"location":"Units 1-4 Warehaus, 1E Mentmore Terrace, London Fields, Hackney, E8 3SD",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2358.7817526766166!2d-0.06039662352804926!3d51.53948797182066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ce63b137d59%3A0x4495c890aaeb0e2!2sWarehaus%20Apartements!5e1!3m2!1sen!2slk!4v1735982153778!5m2!1sen!2slk",
+			"picture":"/images/prop2_1.jpeg",
+      "images": [
+				"/images/prop2_2.jpeg",
+				"/images/prop2_3.jpeg",
+				"/images/prop2_4.jpeg",
+				"/images/prop2_5.jpeg",
+        "/images/prop2_6.jpeg"
+			],
+      "floorPlan": "/images/prop2_fn.png",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },{
+            "id": 3,
+            "type": "Flat",
+            "price": 200000,
+            "bedrooms": 3,
+            "tenure":"To Rent",
+            "location": "Gunter Grove, Chelsea, London, SW10",
+            "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2361.7377435984076!2d-0.18706852353163528!3d51.482432071807665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876057cdc640b2f%3A0x89cb0a69d9cd232d!2sGunter%20Grove%2C%20London%2C%20UK!5e1!3m2!1sen!2slk!4v1735982639421!5m2!1sen!2slk",
+            "description": "A completely refurbished house in Chelsea with off-street parking. This brilliant family home comprises of three bedrooms, excellent entertaining spaces and high ceilings. Gunter Grove is ideally located between the Kings's Road and Fulham Road. Local transport links, restaurants, and 'The Beach' located on the Fulham Road are all within walking distance. Tenure: Freehold",
+            "picture":"/images/prop3_1.jpeg",
+            "images": [
+				"/images/prop3_2.jpeg",
+				"/images/prop3_3.jpeg",
+				"/images/prop3_4.jpeg",
+				"/images/prop3_5.jpeg",
+        "/images/prop3_6.jpeg",
+        "/images/prop3_7.jpeg"
+			],
+      "floorPlan": "/images/prop3_f.jpeg",
+            "added": { "day": 5, "month": 10, "year": 2024 }
+          },
+          {
+            "id": 4,
+            "type": "House",
+            "price": 500000,
+            "bedrooms": 5,
+            "tenure":"For Sale",
+            "location": "Gordon Road London, W5 (EPC E)",
+            "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2360.0393835933123!2d-0.31894042352956853!3d51.51521897181509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761277e7e0d35b%3A0x1c2170ebbaa9e576!2sExcellent%20Ealing!5e1!3m2!1sen!2slk!4v1735982761202!5m2!1sen!2slk",
+            "description": "This divine family home is full of character and has kept most of its original features. Downstairs the entrance hallway leads to a large double reception room for living and dining, a second relaxing lounge. The kitchen has Quartz work surfaces, under floor heating, integrated appliances and a central island. The kitchen also contains a dining area with doors opening to the garden. There is a separate utility room with washing machine and Butlers sink, with direct separate access to the garden, great for children. There is also a downstairs toilet. The first floor includes family bathroom with shower and bath, four double bedrooms and the master bedroom with en-suite. Council tax band is G.",
+            "picture":"/images/prop4_1.jpeg",
+            "images": [
+				"/images/prop4_2.jpeg",
+				"/images/prop4_3.jpeg",
+				"/images/prop4_4.jpeg",
+				"/images/prop4_5.jpeg",
+        "/images/prop4_6.jpeg",
+        "/images/prop4_7.jpeg"
+			],
+      "floorPlan": "/images/prop4_f.jpeg",
+            "added": { "day": 20, "month": 9, "year": 2024 }
+          },
+          {
+            "id": 5,
+            "type": "House",
+            "price": 800000,
+            "bedrooms": 5,
+            "tenure":"For Sale",
+            "location": "Marryat Road, Wimbledon, London, SW19",
+            "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.51293321018!2d-0.22038642353502533!3d51.42882477179554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487608cc9acfd335%3A0xb654eca496f3eb8b!2sMarryat%20Rd%2C%20London%2C%20UK!5e1!3m2!1sen!2slk!4v1735982815132!5m2!1sen!2slk",
+            "description": "Stunning period property in central Village location which has been the subject of a total renovation to an extremely high specification and provides elegant entertaining space, a magnificent principal suite with bathroom and dressing area, four further bathrooms all ensuite and a large south facing landscaped garden with full width terrace and swimming pool. Available for 1-6 months rental.",
+            "picture":"/images/prop5_1.jpeg",
+            "images": [
+				"/images/prop5_2.jpeg",
+				"/images/prop5_3.jpeg",
+				"/images/prop5_4.jpeg",
+				"/images/prop5_5.jpeg",
+        "/images/prop5_6.jpeg",
+        "/images/prop5_7.jpeg",
+        "/images/prop5_8.jpeg"
+			],
+      "floorPlan": "/images/prop5_f.jpeg",
+            "added": { "day": 25, "month": 8, "year": 2024 }
+          },
+          {
+            "id": 6,
+            "type": "Flat",
+            "price": 120000,
+            "bedrooms": 2,
+            "tenure":"To Rent",
+            "location": "Fisherton Street, London, NW8",
+            "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.5378692222102!2d-0.17534922352894775!3d51.52489787181723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ab07c704f6b%3A0x2e75aeaad05c9a26!2sFisherton%20St%2C%20London%2C%20UK!5e1!3m2!1sen!2slk!4v1735982863473!5m2!1sen!2slk",
+            "description": "The apartment benefits from air cooling and set on the third floor with a lift. The fully fitted open plan kitchen and reception room leads out onto a balcony. Both bedrooms benefit from built in storage with one having an en-suite bathroom. The property also has an additional family bathroom. There is an underground car parking space for an additional £150 per month available. This property may have cladding, as far as we know the current position with the property is that it is under 6 floors so any cladding may not have been tested.",
+            "picture":"/images/prop6_1.jpeg",
+            "images": [
+				"/images/prop6_2.jpeg",
+				"/images/prop6_3.jpeg",
+				"/images/prop6_4.jpeg",
+				"/images/prop6_5.jpeg",
+        "/images/prop6_6.jpeg",
+        "/images/prop6_7.jpeg",
+        "/images/prop6_8.jpeg"
+			],
+      "floorPlan": "/images/prop6_f.jpeg",
+            "added": { "day": 1, "month": 7, "year": 2024 }
+          },
+          {
+            "id": 7,
+            "type": "Flat",
+            "price": 160000,
+            "bedrooms": 3,
+            "tenure":"For Sale",
+            "location": "Merchant Square East, London, W2",
+            "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2359.8473332406547!2d-0.17564302352934896!3d51.51892557181592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ab2337e5fbf%3A0xccd0f706c06cf04e!2sMerchant%20Sq%2C%20London%2C%20UK!5e1!3m2!1sen!2slk!4v1735982942368!5m2!1sen!2slk",
+            "description": "This unique apartment comprises a spacious living and entertaining area over 87 sq.meteres. An open plan kitchen and reception area with Canal views, three double bedrooms (the master bedroom with an en-suite bathroom), a guest cloakroom, guest bathroom and ample storage space. The apartment is located in one of W2’s most admired address which features concierge service, lift service, and secure underground parking. The apartment offers easy access to superb transport links such as Paddington Train Station (Elizabeth Line, Bakerloo, Hammersmith & City, Circle, District lines and Heathrow Express) Edgware Road (Circle, District and Bakerloo lines).",
+            "picture":"/images/prop7_1.jpeg",
+            "images": [
+				"/images/prop7_2.jpeg",
+				"/images/prop7_3.jpeg",
+				"/images/prop7_4.jpeg",
+				"/images/prop7_5.jpeg",
+        "/images/prop7_6.jpeg"
+			],
+      "floorPlan": "/images/prop7_f.png",
+            "added": { "day": 12, "month": 6, "year": 2024 }
+          }
+        ]
+      }
+  
